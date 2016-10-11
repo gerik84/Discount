@@ -1,3 +1,145 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
 
+    <item
+        jar="C:\a-project\DiscountApp\androidapp\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\a-project\DiscountApp\androidapp\app\build\intermediates\transforms\dex\peterka\debug\folders\1000\10\com.android.support-support-compat-24.2.1_89429c36ab0bd843bc5cca311634841ce5003816\classes.dex" />
+    </item>
+    <item
+        jar="C:\a-project\DiscountApp\androidapp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\a-project\DiscountApp\androidapp\app\build\intermediates\transforms\dex\peterka\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_c4f6dc5eb79af5da7c9359da0c0c6cac98b488e4\classes.dex" />
+    </item>
+    <item
+        jar="C:\a-project\DiscountApp\androidapp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\a-project\DiscountApp\androidapp\app\build\intermediates\transforms\dex\peterka\debug\folders\1000\10\internal_impl-24.2.1_8d71958a45299239ad5565c02e020ec53631932c\classes.dex" />
+    </item>
+    <item
+        jar="C:\a-project\DiscountApp\androidapp\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\a-project\DiscountApp\androidapp\app\build\intermediates\transforms\dex\peterka\debug\folders\1000\10\com.android.support-support-v4-24.2.1_bfccc765fc545b166f9b55fea42a677538103fc5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\a-project\DiscountApp\androidapp\app\build\intermediates\transforms\dex\peterka\debug\folders\1000\10\support-annotations-24.2.1_10cd953c940accdea77ebb67004f63b8f836c70e\classes.dex" />
+    </item>
+    <item
+        jar="C:\a-project\DiscountApp\androidapp\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\a-project\DiscountApp\androidapp\app\build\intermediates\transforms\dex\peterka\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_d33381260d4f9a7b563242028fd08a16d0dfcc5c\classes.dex" />
+    </item>
+    <item
+        jar="C:\a-project\DiscountApp\androidapp\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\a-project\DiscountApp\androidapp\app\build\intermediates\transforms\dex\peterka\debug\folders\1000\10\com.android.support-design-24.2.1_860018c2a90aa08e56bbcd4ebbd74c7cbf5855bb\classes.dex" />
+    </item>
+    <item
+        jar="C:\a-project\DiscountApp\androidapp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\a-project\DiscountApp\androidapp\app\build\intermediates\transforms\dex\peterka\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_e861b85f3f46dab4da3b9b368cac18f2a8aee3f7\classes.dex" />
+    </item>
+    <item
+        jar="C:\a-project\DiscountApp\androidapp\app\build\intermediates\incremental-runtime-classes\peterka\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="5d0bf8176e2372b6845f9885afc133adecf03fbd">
+        <dex dex="C:\a-project\DiscountApp\androidapp\app\build\intermediates\transforms\dex\peterka\debug\folders\1000\10\instant-run_b598f0210e23d48a125b1c3941bd7846d74ad891\classes.dex" />
+    </item>
+    <item
+        jar="C:\a-project\DiscountApp\androidapp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\a-project\DiscountApp\androidapp\app\build\intermediates\transforms\dex\peterka\debug\folders\1000\10\internal_impl-24.2.1_6fb6663012dabff5de24e98e16b758182d4668a4\classes.dex" />
+    </item>
+    <item
+        jar="C:\a-project\DiscountApp\androidapp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\a-project\DiscountApp\androidapp\app\build\intermediates\transforms\dex\peterka\debug\folders\1000\10\internal_impl-24.2.1_02077c72c322f2fd7b6f4ac8e6b81c6e61bf53f4\classes.dex" />
+    </item>
+    <item
+        jar="C:\a-project\DiscountApp\androidapp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\a-project\DiscountApp\androidapp\app\build\intermediates\transforms\dex\peterka\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_02f11469eba95efcfa93e605b7913abf52e96087\classes.dex" />
+    </item>
+    <item
+        jar="C:\a-project\DiscountApp\androidapp\app\build\intermediates\incremental-classes\peterka\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="fb96d6b6b3426f7339c0cd25b7d06686532d0b25">
+        <dex dex="C:\a-project\DiscountApp\androidapp\app\build\intermediates\transforms\dex\peterka\debug\folders\1000\10\instant-run-bootstrap_be41186079e791d05e0ebf404b97c141cdac526a\classes.dex" />
+    </item>
+    <item
+        jar="C:\a-project\DiscountApp\androidapp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\a-project\DiscountApp\androidapp\app\build\intermediates\transforms\dex\peterka\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_578f4c9de3166973a71a835646414b933d1a2414\classes.dex" />
+    </item>
+    <item
+        jar="C:\a-project\DiscountApp\androidapp\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\a-project\DiscountApp\androidapp\app\build\intermediates\transforms\dex\peterka\debug\folders\1000\10\internal_impl-24.2.1_35d7935156f31022a551093f19817a3d9e501d85\classes.dex" />
+    </item>
+    <item
+        jar="C:\a-project\DiscountApp\androidapp\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="C:\a-project\DiscountApp\androidapp\app\build\intermediates\transforms\dex\peterka\debug\folders\1000\10\com.android.volley-volley-1.0.0_33f49505f426c8cdc20e6baa50e16a843ec07018\classes.dex" />
+    </item>
+    <item
+        jar="C:\a-project\DiscountApp\androidapp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\a-project\DiscountApp\androidapp\app\build\intermediates\transforms\dex\peterka\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_fecc63ee275df7af8e5b705c7e1d51fc256b6f3a\classes.dex" />
+    </item>
+    <item
+        jar="C:\a-project\DiscountApp\androidapp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\a-project\DiscountApp\androidapp\app\build\intermediates\transforms\dex\peterka\debug\folders\1000\10\internal_impl-24.2.1_a08a81c8f2304191179f35f0a02b2458c49293da\classes.dex" />
+    </item>
+    <item
+        jar="C:\a-project\DiscountApp\androidapp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\a-project\DiscountApp\androidapp\app\build\intermediates\transforms\dex\peterka\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_bce976dae282c891f9c86e32e14777e75f9f27a5\classes.dex" />
+    </item>
+    <item
+        jar="C:\a-project\DiscountApp\androidapp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\a-project\DiscountApp\androidapp\app\build\intermediates\transforms\dex\peterka\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_33162b66b03f8a5d01cafc1d0404ab93dc3bba21\classes.dex" />
+    </item>
+
+</items>

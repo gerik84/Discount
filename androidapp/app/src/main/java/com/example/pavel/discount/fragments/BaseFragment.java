@@ -1,4 +1,4 @@
-package com.example.pavel.discount.fragments;
+package com.example.pavel.discount.Fragments;
 
 import android.os.Bundle;
 import android.support.annotation.LayoutRes;

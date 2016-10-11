@@ -1,4 +1,4 @@
-package com.example.pavel.discount.fragments;
+package com.example.pavel.discount.Fragments;
 
 import android.os.Bundle;
 import android.support.v7.widget.LinearLayoutManager;

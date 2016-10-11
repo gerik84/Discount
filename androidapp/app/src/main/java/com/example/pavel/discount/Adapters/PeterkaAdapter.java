@@ -1,4 +1,4 @@
-package com.example.pavel.discount.Adapters;
+package com.example.pavel.discount.adapters;
 
 import android.support.v7.widget.RecyclerView;
 import android.view.View;

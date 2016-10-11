@@ -1,10 +1,6 @@
-package com.example.pavel.discount.Adapters;
-
-import android.annotation.TargetApi;
-import android.os.Build;
+package com.example.pavel.discount.adapters;
 
 import java.lang.reflect.Constructor;
-import java.lang.reflect.InvocationTargetException;
 
 /**
  * Created by Pavel G on 11.10.2016.

@@ -1,12 +1,12 @@
-package com.example.pavel.discount.Fragments;
+package com.example.pavel.discount.fragments;
 
 import android.os.Bundle;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.view.View;
 
-import com.example.pavel.discount.Adapters.AdaptorFabric;
-import com.example.pavel.discount.Adapters.PeterkaAdapter;
+import com.example.pavel.discount.adapters.AdaptorFabric;
+import com.example.pavel.discount.adapters.PeterkaAdapter;
 import com.example.pavel.discount.R;
 import com.example.pavel.discount.Tools;
 
